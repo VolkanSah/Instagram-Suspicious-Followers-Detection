@@ -9,17 +9,18 @@ This script helps you to identify suspicious followers on your Instagram account
 - Webdriver Manager
 
 Install the required Python packages with the following command:
+```python
 pip install selenium webdriver-manager
-
+```
 
 ## Usage
 
 1. Replace the `username` and `password` variables in the script with your Instagram account credentials.
 2. Adjust the number of scroll operations in the script depending on the number of followers you want to load.
 3. Run the script with the following command:
-
+```python
 python suspicious_followers_detection.py
-
+```
 The script will log in to your Instagram account, load the specified number of followers, and identify suspicious followers based on the defined keywords. It will then save the suspicious followers' usernames and IDs to a file named `suspicious_followers.txt`.
 
 ## Warnings
@@ -31,3 +32,6 @@ The script will log in to your Instagram account, load the specified number of f
 ## Disclaimer
 
 This script is for educational purposes and personal use only. The user is responsible for complying with Instagram's terms of service and any applicable laws. The author of this script is not responsible for any consequences resulting from the use or misuse of this script.
+
+## Copyright
+Volkan `Sah Kücükbudak
