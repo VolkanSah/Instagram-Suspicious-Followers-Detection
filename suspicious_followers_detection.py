@@ -1,4 +1,5 @@
-# Copyright Volkan Sah Kücükbudak
+# Instagram Suspicious Followers Detection- Copyright Volkan Kücükbudak
+# https://github.com/VolkanSah/Instagram-Suspicious-Followers-Detection
 import time
 from selenium import webdriver
 from selenium.webdriver.common.keys import Keys
