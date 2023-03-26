@@ -1,4 +1,4 @@
-# Instagram Suspicious Followers Detection
+# Instagram Suspicious Followers Detection (2023)
 
 This script helps you to identify suspicious followers on your Instagram account based on specific keywords present in their usernames. The purpose of this script is to help users detect and manage spam or fake accounts among their followers.
 
