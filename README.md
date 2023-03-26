@@ -23,6 +23,9 @@ python suspicious_followers_detection.py
 ```
 The script will log in to your Instagram account, load the specified number of followers, and identify suspicious followers based on the defined keywords. It will then save the suspicious followers' usernames and IDs to a file named `suspicious_followers.txt`.
 
+## Suspicious Hastags:
+    'spam', 'bot', 'fake', 'scam', 'contest', 'followforfollow', 'lfl', 'meme', 'spamsquishy', 'instagood', 'mood', 'dankmemes', 'memesdaily', 'share', 'followback', 'twitter', 'gaintrick', 'cute', 'slime', 'scammers', 'scammer', 'twitterquotes', 'scammersofinstagram', 'selfie', 'polishgirl', 'edits', 'scammeralert', 'relatable', 'likeforlikeback', 'spams', 'twittermemes', 'followtrain', 'views', 'spammers', 'dubaixd', 'dubaixxd', 'dubai', 'youlikehits', 'socialexchange', 'youhavewon', 'win', 'onlyfans', 'manyvid', 'f4f', 's4s', 'l4l', 'follow4follow', 'like4like', 'spamforspam', 'spam4spam', 'shoutout4shoutout', 'fakeaccount', 'fakefollowers', 'getfollowers', 'getlikes'
+
 ## Warnings
 
 1. Use this script with caution. Excessive scrolling and loading a large number of followers may cause Instagram to flag your account as suspicious, potentially resulting in temporary or permanent restrictions.
