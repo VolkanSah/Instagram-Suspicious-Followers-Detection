@@ -32,7 +32,8 @@ for _ in range(20):
 
 follower_elements = driver.find_elements_by_css_selector('div[role="dialog"] ul div li')
 
-suspicious_keywords = ['spam', 'bot', 'fake', 'scam', 'contest', 'follow4follow']
+suspicious_keywords = ['spam', 'bot', 'fake', 'scam', 'contest', 'followforfollow', 'lfl', 'meme', 'spamsquishy', 'instagood', 'mood', 'dankmemes', 'memesdaily', 'share', 'followback', 'twitter', 'gaintrick', 'cute', 'slime', 'scammers', 'scammer', 'twitterquotes', 'scammersofinstagram', 'selfie', 'polishgirl', 'edits', 'scammeralert', 'relatable', 'likeforlikeback', 'spams', 'twittermemes', 'followtrain', 'views', 'spammers', 'dubaixd', 'dubaixxd', 'dubai', 'youlikehits', 'socialexchange', 'youhavewon', 'win', 'onlyfans', 'manyvid', 'f4f', 's4s', 'l4l', 'follow4follow', 'like4like', 'spamforspam', 'spam4spam', 'shoutout4shoutout', 'fakeaccount', 'fakefollowers', 'getfollowers', 'getlikes']
+
 suspicious_followers = []
 
 for elem in follower_elements:
