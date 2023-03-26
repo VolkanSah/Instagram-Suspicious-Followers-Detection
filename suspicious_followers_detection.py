@@ -1,4 +1,4 @@
-# please before use : pip install selenium webdriver-manager
+# Copyright Volkan Sah Kücükbudak
 import time
 from selenium import webdriver
 from selenium.webdriver.common.keys import Keys
