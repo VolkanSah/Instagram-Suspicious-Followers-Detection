@@ -20,7 +20,7 @@ pip install selenium webdriver-manager
 2. Adjust the number of scroll operations in the script depending on the number of followers you want to load.
 3. Run the script with the following command:
 ```python
-python suspicious_followers_detection.py
+python3 suspicious_followers_detection.py
 ```
 The script will log in to your Instagram account, load the specified number of followers, and identify suspicious followers based on the defined keywords. It will then save the suspicious followers' usernames and IDs to a file named `suspicious_followers.txt`.
 
