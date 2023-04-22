@@ -38,4 +38,4 @@ The script will log in to your Instagram account, load the specified number of f
 This script is for educational purposes and personal use only. The user is responsible for complying with Instagram's terms of service and any applicable laws. The author of this script is not responsible for any consequences resulting from the use or misuse of this script.
 
 ## Copyright
-Volkan `Sah Kücükbudak
+S. Volkan Kücükbudak
