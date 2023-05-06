@@ -37,5 +37,11 @@ The script will log in to your Instagram account, load the specified number of f
 
 This script is for educational purposes and personal use only. The user is responsible for complying with Instagram's terms of service and any applicable laws. The author of this script is not responsible for any consequences resulting from the use or misuse of this script.
 
-## Copyright
-S. Volkan Kücükbudak
+### Thank you for your support!
+- If you appreciate my work, please consider [becoming a 'Sponsor'](https://github.com/sponsors/volkansah), giving a :star: to my projects, or following me. 
+### Credits
+- [VolkanSah on Github](https://github.com/volkansah)
+- [Developer Site](https://volkansah.github.io)
+
+### License
+This project is licensed under the MIT - see the [LICENSE](LICENSE) file for details
